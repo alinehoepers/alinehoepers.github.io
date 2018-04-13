@@ -3,16 +3,17 @@ background-color:#FF720A;
 }
 
 body{
-    background-color:#767676;
+    background-color:rgb(230, 230, 230);
     
 }
 .container{
     display:flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     justify-content: center;
+   
 }
 h1{
-    font-family: calibri;
+    font-family: 'Open Sans', sans-serif;
     font-size:3em;
     border-bottom: 2px solid #FF720A; 
     border-right: 2px solid #FF720A;
@@ -20,7 +21,7 @@ h1{
     text-align: center;
 }
 img{
-    width: 300px;
-    height:200px;
+    width: 250px;
+    height:220px;
     margin: 10px;
 }
